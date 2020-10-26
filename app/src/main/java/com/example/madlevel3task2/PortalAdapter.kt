@@ -30,6 +30,7 @@ class PortalAdapter(private val portals: List<Portal>) : RecyclerView.Adapter<Po
 
         fun databind(portal: Portal) {
             itemView.tvName.text = portal.nameText
+            itemView.tvUrl.text = portal.urlText
         }
     }
 

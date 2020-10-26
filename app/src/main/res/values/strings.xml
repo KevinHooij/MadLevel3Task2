@@ -12,4 +12,5 @@
     <string name="add_txt">Add Portal</string>
     <string name="title_txt">Title</string>
     <string name="url_txt">Url</string>
+    <string name="not_valid_portal">Portal not valid</string>
 </resources>
